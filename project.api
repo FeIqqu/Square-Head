@@ -1,0 +1,40 @@
+#
+!Square_Head.cpp algorithm cctype cerrno clocale cmath cstdint cstdio cstdlib ctype.h cwchar cwctype errno.h exception graphics.h initializer_list ios iosfwd iostream istream keys_n_colors.h limits limits.h locale.h math.h new numeric ostream random signal.h stddef.h stdexcept stdint.h stdio.h stdlib.h streambuf string string_view system_error type_traits typeinfo utility vector wchar.h wctype.h #<#>
+About() -> void #<Square_Head.cpp>
+DrawField() -> bool #<Square_Head.cpp>
+DrawMenu(int* state) -> void #<Square_Head.cpp>
+FlagGamer : int[] #<Square_Head.cpp>
+NewGame() -> void #<Square_Head.cpp>
+Pointer1 : int #<Square_Head.cpp>
+Pointer2 : int #<Square_Head.cpp>
+Pole : int[][] #<Square_Head.cpp>
+PoleColor : int[] #<Square_Head.cpp>
+PoleFlags : int[][] #<Square_Head.cpp>
+Rules() -> void #<Square_Head.cpp>
+Score1 : int #<Square_Head.cpp>
+Score2 : int #<Square_Head.cpp>
+Settings() -> bool #<Square_Head.cpp>
+Triangle(int x, int y) -> void #<Square_Head.cpp>
+colors : vector #<Square_Head.cpp>
+dfs_draw(int i, int j, int PF[20][32], int P[20][32], int P1, int P2, int g, int f) -> void #<Square_Head.cpp>
+dfs_s(int i, int j, int PF[20][32], int g) -> void #<Square_Head.cpp>
+dis : uniform_int_distribution #<Square_Head.cpp>
+dp_Pole : int[][] #<Square_Head.cpp>
+dp_PoleFlags : int[][] #<Square_Head.cpp>
+gamer : int #<Square_Head.cpp>
+gen : mt19937 #<Square_Head.cpp>
+images : IMAGE*[] #<Square_Head.cpp>
+impact : int #<Square_Head.cpp>
+index_impact : int #<Square_Head.cpp>
+last1 : int #<Square_Head.cpp>
+last2 : int #<Square_Head.cpp>
+lvl998 : int[][] #<Square_Head.cpp>
+lvl999 : int[][] #<Square_Head.cpp>
+main() -> int #<Square_Head.cpp>
+pScore1 : int #<Square_Head.cpp>
+pScore2 : int #<Square_Head.cpp>
+ravenstvo(int a1[20][32], int a2[20][32]) -> void #<Square_Head.cpp>
+rd : random_device #<Square_Head.cpp>
+s : int #<Square_Head.cpp>
+s1 : int #<Square_Head.cpp>
+s2 : int #<Square_Head.cpp>
